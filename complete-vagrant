@@ -1,0 +1,19 @@
+.complete-shell v0.0.1
+
+.cmd terraform
+
+.sub apply
+.sub destroy
+.sub get
+.sub graph
+.sub init
+.sub output
+.sub plan
+.sub push
+.sub refresh
+.sub remote
+.sub show
+.sub taint
+.sub version
+
+.end
